@@ -1,6 +1,6 @@
 <h1>Movie Search</h1>
 This is Movie Search, a website that displays the current most popular movies, search for titles, and favourite different movies!
-It was made to help me create a project with React, a JS Framework to help with fullstack development. It covers a lot of React, including hooks, jsx, importing API data, changing screens, etc.
+It was made to help me create a project with React, a JS Framework to help with fullstack development. It covers a lot of React, including hooks, localStorage, creating context, importing API data, working in jsx, changing screens, etc.
 
 <hr>
 
